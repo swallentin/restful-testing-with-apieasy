@@ -10,6 +10,7 @@
       "express": "2.5.8"
     , "jade": ">= 0.0.1"
     , "api-easy": ""
+    , "mongoose": ""
   },
     "scripts": {
       "test": "vows test/*-test.js"
