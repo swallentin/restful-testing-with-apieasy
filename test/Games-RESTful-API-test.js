@@ -1,6 +1,7 @@
 var APIeasy = require('api-easy')
   , assert = require('assert')
-  , mongoose = require('mongoose');
+  , mongoose = require('mongoose')
+  , app = require('../app');
 
 var suite = APIeasy.describe('Testing the /games RESTful API.');
 
